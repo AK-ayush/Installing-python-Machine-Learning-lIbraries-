@@ -3,8 +3,7 @@ Installing python Machine Learning libraries
 
 1. Set the proxy envoirment variables while installing behind a proxy network
 
-	export $http_proxy=http://username:password@hostname:port/;
-	export $ALL_PROXY=$http_proxy
+	export $all_proxy=http://username:password@hostname:port/
 
 2. Download the requirement.txt file
 
